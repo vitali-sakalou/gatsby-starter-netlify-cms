@@ -10,4 +10,4 @@ Yahoooooooooooooooooooooooooooooooo
 
 Привет
 
-![cofee](/img/products-grid2.jpg "cofee")
+![cofee](/img/dsc08720.jpg "cofee")

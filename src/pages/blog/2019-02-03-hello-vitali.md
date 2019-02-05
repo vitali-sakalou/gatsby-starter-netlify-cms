@@ -6,8 +6,8 @@ description: This is my first post
 tags:
   - cofee
 ---
-Yahoooooooooooooooooooooooooooooooo
+Test post
 
 Привет
 
-![cofee](/img/dsc08720.jpg "cofee")
+![cofee](/img/products-grid3.jpg "cofee")

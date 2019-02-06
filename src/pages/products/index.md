@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Tea
-image: /img/products-full-width.jpg
+image: /img/flavor_wheel.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
